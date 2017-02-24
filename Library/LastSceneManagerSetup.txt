@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Lane_CampFireScene.unity
+- path: Assets/Lane-Wk5ThrowBall.unity
   isLoaded: 1
   isActive: 1
