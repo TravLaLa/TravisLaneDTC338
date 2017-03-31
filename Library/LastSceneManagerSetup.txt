@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Lane_Wk9DestroyObj.unity
+- path: Assets/Lane_Wk11.unity
   isLoaded: 1
   isActive: 1
